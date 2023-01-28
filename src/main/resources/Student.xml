@@ -1,0 +1,14 @@
+<students>
+    <student>
+        <id>1</id>
+        <firstname>Bibhu</firstname>
+        <lastname>panda</lastname>
+        <email>bibhu@example.com</email>
+    </student>
+    <student>
+        <id>2</id>
+        <firstname>Bibvddsvdshu</firstname>
+        <lastname>vvvfbv</lastname>
+        <email>bibhusdvdsd@example.com</email>
+    </student>
+</students>
